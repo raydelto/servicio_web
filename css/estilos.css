@@ -1,0 +1,17 @@
+.comun{
+    background-color: blueviolet;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.encabezado{
+    text-align: center;
+    font-size: 27px;
+    
+}
+
+.listado{
+    margin-top: 10px;
+    font-size: 14px;
+}
